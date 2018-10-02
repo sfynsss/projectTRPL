@@ -18,4 +18,5 @@ else{
 }
 
 require_once('view/layout.php');
+//test
 ?>
